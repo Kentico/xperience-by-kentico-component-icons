@@ -41,9 +41,7 @@ You can read about the inspiration for this library in the article [Smarter Comp
 
 ### Library Version Matrix
 
-| Xperience Version | Library Version |
-| ----------------- | --------------- |
-| >= 31.2.0         | 1.0.0           |
+This project has no dependencies and will work with any version of Xperience by Kentico.
 
 ### Dependencies
 
